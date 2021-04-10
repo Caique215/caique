@@ -1,0 +1,35 @@
+body{
+    font: 20px Ariel, sans-serif ;
+}
+.navbar {
+    background-color: #A6A6A6;
+}
+
+.quem-sou-eu {
+    background-color:#A1A5A6;
+    color: white;
+    
+}
+
+.margin {
+   padding-bottom: 50px;
+   padding-top: 10px;
+
+}
+
+.cont {
+    margin-top: 50pt;
+}
+.falecomigo {
+    background-color:#595959 ;
+    color: white;
+}
+
+.serviços {
+    background-color :  #262626;
+    color: white;
+}
+.bg-footer {
+    background-color:#0D0D0D;
+    color: white;
+}
