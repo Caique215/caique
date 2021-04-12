@@ -6,7 +6,7 @@ body{
 }
 
 .quem-sou-eu {
-    background-color: #A1A5A6;  
+    background-color: #595959 ;  
     color: white;
     
 }
@@ -20,8 +20,8 @@ body{
 .cont {
     margin-top: 50pt;
 }
-.falecomigo {
-    background-color: #595959;  
+.falecomigo { 
+    background-color:#A1A5A6; 
     color: white;
 }
 
