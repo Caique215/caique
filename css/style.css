@@ -33,13 +33,13 @@ body{
 .Perfil {
     background-color :  white;
     color: rgb(17, 12, 12);
-    
+    width: 700px;
+    height: 700px
     
 }
 
 .conti {
-    width: 700px;
-    height: 700px;
+    
    
 }
 
