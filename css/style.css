@@ -26,12 +26,17 @@ body{
 }
 
 .mais {
-    background-color :  #595959;
+    background-color : #595959 ;
     color: rgb(17, 12, 12);
-     
+    
+
     
 }
-
+.mai { 
+    margin-top: 520px;
+    height: 500px;
+   
+}
 
 .serviços {
     background-color : #262626 ;
@@ -46,7 +51,7 @@ body{
 
 .conti { 
     left: 350px;
-    height: 700px;
+    height: 500px;
   
 }
 
