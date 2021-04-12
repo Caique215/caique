@@ -29,6 +29,23 @@ body{
     background-color :  #262626;
     color: white;
 }
+
+.Perfil {
+    background-color :  white;
+    color: rgb(17, 12, 12);
+    height: 800px;
+    
+}
+
+.cont {
+    width: 700px;
+    height: 700px;
+   
+}
+
+
+
+
 .bg-footer {
     background-color:#0D0D0D;
     color: white;
