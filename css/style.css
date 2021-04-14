@@ -56,44 +56,6 @@ body{
 }
 
 
-nav#menu {
-    display: block;
-}
-
-
-nav#menu ul {
-    list-style: none;
-    text-transform: uppercase;
-    position: absolute;
-    top: -400px;
-    left: 50px;
-  }
-nav#menu li {
-    display: inline-block;
-    background-color: #ebebeb;
-    padding: 10px;
-    margin: 10px;
-    transition: background-color 1s ;
-    border: 5px solid #75eaff;
-    box-shadow: 2px 2px 2px 2px rgb(12, 8, 8);
-}
-nav#menu li:hover{
-    background-color: #75eaff;
-}
-
-nav#menu h1 {
-    display: none;
-}
-
-nav#menu  a{ 
-    color: rgb(143, 138, 138);
-    text-decoration:none ;
-    
-}
- nav#menu a:hover {
-     color: #868282;
-     text-decoration: underline;
- }
 
 
 
