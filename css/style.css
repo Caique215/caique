@@ -49,6 +49,12 @@ body{
     
 }
 
+.Baixe {
+     background-color :  #FFF ;
+    color: rgb(17, 12, 12);
+    
+}
+
 .conti { 
     left: 350px;
     height: 500px;
