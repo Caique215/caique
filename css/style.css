@@ -49,17 +49,27 @@ body{
     
 }
 
-.Baixar {
-     background-color :  #FFF ;
-    color: rgb(17, 12, 12);
-    
-}
+
+
+
 
 .Currículo { 
-    margin-top: 520px;
-    height: 500px;
+     background-color:  #A6A6A6 ;  
+    color: yelow;
    
 }
+.Baixar {
+    margin-top: 50pt;
+}
+
+
+.tu {
+     padding-bottom: 50px;
+   padding-top: 10px;
+
+}
+
+
 
 .conti { 
     left: 350px;
