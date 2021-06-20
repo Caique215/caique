@@ -77,12 +77,15 @@ body{
 
 
 .h6 {
-    margin-top: 50pt;
+    margin-top: 10pt;
     Color: white;
     
 }
 
-
+.conteiner1 {
+margin-top: 10pt;
+    Color: white;
+}
 
 .mais1 {
     background-color : #595959 ;
