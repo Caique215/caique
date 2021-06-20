@@ -76,14 +76,17 @@ body{
 
 
 
+.margin mais1 {
+margin-top: 10pt;
 
+}
 
 
 .mais1 {
     background-color : #595959 ;
     color: white;
-    margin-top: 10pt;
-    font: 30px Ariel, sanserif;
+    
+    font: 50px Ariel, sanserif;
     
 
     
