@@ -47,15 +47,13 @@ body{
     color: white;
 }
 
+
+
 .Perfil {
     background-color :  white;
     color: rgb(17, 12, 12);
     
 }
-
-
-
-
 
 
 
@@ -68,7 +66,10 @@ body{
 
 
 
-
+.curriculo {
+background-color:#262626 ;
+color: white;
+}
 
 
 
