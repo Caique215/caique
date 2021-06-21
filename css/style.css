@@ -81,12 +81,18 @@ margin-top: 10pt;
 
 }
 
-
+.texto04 {
+    font: 100px Ariel, sanserif,cursive;
+    color: rgb(250, 252, 252);
+    font-size: 200px;
+    padding: 0px;
+    margin-top: 10px;
+}
 .curriculo {
     background-color : #595959 ;
     color: white;
     
-    font: 100px Ariel, sanserif;
+    
     
 
     
