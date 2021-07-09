@@ -2,11 +2,11 @@ body{
     font: 20px Ariel, sans-serif ;
 }
 .navbar {
-    background-color: withe;
+    background-color: #ECF3FF;
 }
 
 .quem-sou-eu {
-    background-color:  #A6A6A6 ;  
+    background-color:   #AAC9FF;;  
     color: white;
     
 }
@@ -21,13 +21,13 @@ body{
     margin-top: 50pt;
 }
 .falecomigo { 
-    background-color:#A1A5A6; 
+    background-color:  #77A7FF; 
     color: white;
 }
 
 
 .curriculo {
-background-color: #262626 ;
+background-color: #1877F2;
 color: white;
     
 }
@@ -35,7 +35,7 @@ color: white;
 
 
 .mais {
-    background-color : #595959 ;
+    background-color : #2851A3 ;
     color: rgb(17, 12, 12);
     
 
@@ -49,7 +49,7 @@ color: white;
 }
 
 .serviços {
-    background-color :#262626;
+    background-color : #1D3C78;
     color: white;
 }
 
@@ -82,6 +82,6 @@ color: white;
 
 
 .bg-footer {
-    background-color:#0D0D0D;
+    background-color: #444950;
     color: white;
 }
